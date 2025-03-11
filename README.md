@@ -1,7 +1,7 @@
 # Lynx-Ai
 
 ---------
-<img src="https://i.ibb.co/Y7mhFdf/file.jpg" alt="Lynx Logo"> 
+<img src="https://img.freepik.com/premium-photo/robot-girl-in-the-digital-era_991087-199.jpg" alt="Lynx Logo"> 
 
 ---------
 
